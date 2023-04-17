@@ -6,5 +6,5 @@ most_important = "God"
 def get_file_ext(filenmae):
     return filename[filename.index(".") + 1:]
 
-def play_dominos(num):
-    return random.randint(0, num)
+def roll_dice(num):
+    return random.randint(1, num)
