@@ -1,3 +1,5 @@
+import random
+
 destinys_child = ["Beyonce", "Michelle", "Kelly"]
 healthy_greens = ["spinach", "kale", "collard greens", "broccoli", "cabbage", "asparagus"]
 number_of_children = 3

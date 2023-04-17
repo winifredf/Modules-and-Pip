@@ -1,3 +1,3 @@
 import random_information
 
-print(random_information.select_domino(7))
+print(random_information.roll_dice(10))
