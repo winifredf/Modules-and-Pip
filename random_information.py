@@ -5,7 +5,7 @@ healthy_greens = ["spinach", "kale", "collard greens", "broccoli", "cabbage", "a
 number_of_children = 3
 most_important = "God"
 
-def get_file_ext(filenmae):
+def get_file_ext(filename):
     return filename[filename.index(".") + 1:]
 
 def roll_dice(num):
